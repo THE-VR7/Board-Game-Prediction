@@ -3,3 +3,7 @@ In this project, we will be using a linear regression model to predict the avera
 
 The Dataset is present in the github the link of which is 
  https://github.com/ThaWeatherman/scrapers.git
+
+
+Go to this url to view the notebook
+https://nbviewer.jupyter.org/github/THE-VR7/Board-Game-Prediction/blob/master/BoardGamePrediction.ipynb
